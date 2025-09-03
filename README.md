@@ -66,3 +66,5 @@ npm run dev
  - [Next Documentation](https://nextjs.org/docs)
  - [T3 Stack Documentation](https://create.t3.gg/en/usage/first-steps)
  - [Mux Documentation](https://www.mux.com/docs)
+
+`If you have some question in this project, feel free to reach out.`
