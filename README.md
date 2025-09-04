@@ -67,4 +67,5 @@ npm run dev
  - [T3 Stack Documentation](https://create.t3.gg/en/usage/first-steps)
  - [Mux Documentation](https://www.mux.com/docs)
 
-`If you have some question in this project, feel free to reach out.`
+`If you have some question in this project, feel free to reach out.
+The project was protected by S.Team`
